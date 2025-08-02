@@ -99,7 +99,7 @@ npm test        # Run test cases
 ![alt text](image-2.png)
 
 
-## 📄 License
+## 🍞 License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
