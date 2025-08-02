@@ -96,7 +96,7 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
 ## 👥 Contributors
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 
 ## 🍞 License
