@@ -55,8 +55,8 @@ cd school mangerment system
 npm install 
 ```
 ## Screecshort
----
 ![alt text](image-1.png)
+---
 
 ## 🍋 Usange
 ---
